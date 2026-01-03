@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\myfirst\\Project 2 - ATM System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E14C81D6-C319-4881-BE34-6FE9715901C2}|Project 2 - ATM System\\Project 2 - ATM System.vcxproj|H:\\myfirst\\Project 2 - ATM System\\Project 2 - ATM System\\Project 2 - ATM System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E14C81D6-C319-4881-BE34-6FE9715901C2}|Project 2 - ATM System\\Project 2 - ATM System.vcxproj|solutionrelative:Project 2 - ATM System\\Project 2 - ATM System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project 2 - ATM System.cpp",
+              "DocumentMoniker": "H:\\myfirst\\Project 2 - ATM System\\Project 2 - ATM System\\Project 2 - ATM System.cpp",
+              "RelativeDocumentMoniker": "Project 2 - ATM System\\Project 2 - ATM System.cpp",
+              "ToolTip": "H:\\myfirst\\Project 2 - ATM System\\Project 2 - ATM System\\Project 2 - ATM System.cpp",
+              "RelativeToolTip": "Project 2 - ATM System\\Project 2 - ATM System.cpp",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAAB0BAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T07:44:57.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
